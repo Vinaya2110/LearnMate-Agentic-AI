@@ -1,0 +1,379 @@
+DOMAIN: AI/ML
+
+Career Outcome: AI Engineer
+
+Learning Module: Programming Logic with Python
+Level: Beginner
+Prerequisite: None
+Duration: 2 Weeks
+Skills Gained: Python Basics, Problem Solving
+
+Learning Module: Data Preparation Essentials
+Level: Beginner
+Prerequisite: Programming Logic with Python
+Duration: 2 Weeks
+Skills Gained: Data Cleaning, Data Handling
+
+Learning Module: Mathematics for Machine Intelligence
+Level: Beginner
+Prerequisite: Programming Logic with Python
+Duration: 3 Weeks
+Skills Gained: Statistics, Linear Algebra
+
+Learning Module: Data Visualization Techniques
+Level: Intermediate
+Prerequisite: Data Preparation Essentials
+Duration: 2 Weeks
+Skills Gained: Visualization, Insights
+
+Learning Module: Predictive Analytics Fundamentals
+Level: Intermediate
+Prerequisite: Mathematics for Machine Intelligence
+Duration: 3 Weeks
+Skills Gained: Prediction Models, ML Basics
+
+Learning Module: Applied Machine Learning
+Level: Intermediate
+Prerequisite: Predictive Analytics Fundamentals
+Duration: 4 Weeks
+Skills Gained: Machine Learning
+
+Learning Module: Neural Network Design
+Level: Advanced
+Prerequisite: Applied Machine Learning
+Duration: 4 Weeks
+Skills Gained: Deep Learning
+
+Learning Module: Natural Language Intelligence
+Level: Advanced
+Prerequisite: Neural Network Design
+Duration: 3 Weeks
+Skills Gained: NLP, Text Processing
+
+Learning Module: Computer Vision Foundations
+Level: Advanced
+Prerequisite: Neural Network Design
+Duration: 3 Weeks
+Skills Gained: Image Processing
+
+Learning Module: Responsible AI Practices
+Level: Advanced
+Prerequisite: Applied Machine Learning
+Duration: 2 Weeks
+Skills Gained: AI Ethics, Governance
+
+Learning Module: Generative AI Applications
+Level: Advanced
+Prerequisite: Natural Language Intelligence
+Duration: 4 Weeks
+Skills Gained: LLMs, Prompt Engineering
+
+Learning Module: AI Innovation Project
+Level: Advanced
+Prerequisite: Generative AI Applications
+Duration: 4 Weeks
+Skills Gained: End-to-End AI Development
+
+DOMAIN: FRONTEND DEVELOPMENT
+
+Career Outcome: Frontend Developer
+
+Learning Module: Web Structure Fundamentals
+Level: Beginner
+Prerequisite: None
+Duration: 1 Week
+Skills Gained: HTML, Semantic Design
+
+Learning Module: Visual Styling Essentials
+Level: Beginner
+Prerequisite: Web Structure Fundamentals
+Duration: 2 Weeks
+Skills Gained: CSS, Responsive Design
+
+Learning Module: Interactive Web Programming
+Level: Intermediate
+Prerequisite: Visual Styling Essentials
+Duration: 3 Weeks
+Skills Gained: JavaScript, DOM
+
+Learning Module: Responsive Interface Design
+Level: Intermediate
+Prerequisite: Visual Styling Essentials
+Duration: 2 Weeks
+Skills Gained: Responsive Layouts
+
+Learning Module: Modern UI Components
+Level: Advanced
+Prerequisite: Interactive Web Programming
+Duration: 3 Weeks
+Skills Gained: Reusable Components
+
+Learning Module: Single Page Applications
+Level: Advanced
+Prerequisite: Modern UI Components
+Duration: 4 Weeks
+Skills Gained: SPA Development
+
+Learning Module: State Management Concepts
+Level: Advanced
+Prerequisite: Single Page Applications
+Duration: 2 Weeks
+Skills Gained: Application State
+
+Learning Module: Frontend Testing Methods
+Level: Advanced
+Prerequisite: Single Page Applications
+Duration: 2 Weeks
+Skills Gained: Testing, Debugging
+
+Learning Module: Accessibility and Inclusion
+Level: Intermediate
+Prerequisite: Responsive Interface Design
+Duration: 2 Weeks
+Skills Gained: Accessible Design
+
+Learning Module: Performance Optimization
+Level: Advanced
+Prerequisite: Single Page Applications
+Duration: 2 Weeks
+Skills Gained: Optimization Techniques
+
+Learning Module: Frontend Deployment Strategies
+Level: Advanced
+Prerequisite: Performance Optimization
+Duration: 2 Weeks
+Skills Gained: Deployment Skills
+
+Learning Module: Professional Portfolio Creation
+Level: Advanced
+Prerequisite: Frontend Deployment Strategies
+Duration: 3 Weeks
+Skills Gained: Portfolio Development
+
+DOMAIN: CYBERSECURITY
+
+Career Outcome: Security Analyst
+
+Learning Module: Foundations of Digital Security
+Level: Beginner
+Prerequisite: None
+Duration: 2 Weeks
+Skills Gained: Security Awareness
+
+Learning Module: Computer Network Essentials
+Level: Beginner
+Prerequisite: None
+Duration: 2 Weeks
+Skills Gained: Networking Basics
+
+Learning Module: System Security Fundamentals
+Level: Intermediate
+Prerequisite: Foundations of Digital Security
+Duration: 3 Weeks
+Skills Gained: System Protection
+
+Learning Module: Secure Communication Practices
+Level: Intermediate
+Prerequisite: Computer Network Essentials
+Duration: 2 Weeks
+Skills Gained: Network Security
+
+Learning Module: Risk Assessment Techniques
+Level: Intermediate
+Prerequisite: System Security Fundamentals
+Duration: 3 Weeks
+Skills Gained: Risk Analysis
+
+Learning Module: Threat Intelligence Basics
+Level: Intermediate
+Prerequisite: Risk Assessment Techniques
+Duration: 3 Weeks
+Skills Gained: Threat Analysis
+
+Learning Module: Web Application Security
+Level: Advanced
+Prerequisite: Secure Communication Practices
+Duration: 3 Weeks
+Skills Gained: Web Security
+
+Learning Module: Ethical Security Testing
+Level: Advanced
+Prerequisite: Threat Intelligence Basics
+Duration: 4 Weeks
+Skills Gained: Penetration Testing
+
+Learning Module: Incident Response Management
+Level: Advanced
+Prerequisite: Threat Intelligence Basics
+Duration: 3 Weeks
+Skills Gained: Incident Handling
+
+Learning Module: Security Monitoring Operations
+Level: Advanced
+Prerequisite: Incident Response Management
+Duration: 3 Weeks
+Skills Gained: SOC Operations
+
+Learning Module: Cloud Security Principles
+Level: Advanced
+Prerequisite: Secure Communication Practices
+Duration: 3 Weeks
+Skills Gained: Cloud Security
+
+Learning Module: Cyber Defense Project
+Level: Advanced
+Prerequisite: Security Monitoring Operations
+Duration: 4 Weeks
+Skills Gained: Practical Security Skills
+
+DOMAIN: UI/UX DESIGN
+
+Career Outcome: UX Designer
+
+Learning Module: Human Centered Design
+Level: Beginner
+Prerequisite: None
+Duration: 2 Weeks
+Skills Gained: Design Thinking
+
+Learning Module: Visual Design Principles
+Level: Beginner
+Prerequisite: Human Centered Design
+Duration: 2 Weeks
+Skills Gained: Visual Design
+
+Learning Module: User Research Fundamentals
+Level: Intermediate
+Prerequisite: Human Centered Design
+Duration: 2 Weeks
+Skills Gained: Research Skills
+
+Learning Module: Information Architecture Basics
+Level: Intermediate
+Prerequisite: Visual Design Principles
+Duration: 2 Weeks
+Skills Gained: Content Organization
+
+Learning Module: Wireframing Techniques
+Level: Intermediate
+Prerequisite: Information Architecture Basics
+Duration: 2 Weeks
+Skills Gained: Wireframing
+
+Learning Module: Interactive Prototyping
+Level: Intermediate
+Prerequisite: Wireframing Techniques
+Duration: 3 Weeks
+Skills Gained: Prototyping
+
+Learning Module: Usability Evaluation Methods
+Level: Advanced
+Prerequisite: Interactive Prototyping
+Duration: 2 Weeks
+Skills Gained: Usability Testing
+
+Learning Module: Design System Development
+Level: Advanced
+Prerequisite: Interactive Prototyping
+Duration: 3 Weeks
+Skills Gained: Design Systems
+
+Learning Module: Product Experience Strategy
+Level: Advanced
+Prerequisite: Usability Evaluation Methods
+Duration: 3 Weeks
+Skills Gained: UX Strategy
+
+Learning Module: Mobile Experience Design
+Level: Advanced
+Prerequisite: Interactive Prototyping
+Duration: 3 Weeks
+Skills Gained: Mobile UX
+
+Learning Module: Collaborative Design Workflows
+Level: Advanced
+Prerequisite: Design System Development
+Duration: 2 Weeks
+Skills Gained: Team Collaboration
+
+Learning Module: UX Showcase Project
+Level: Advanced
+Prerequisite: Product Experience Strategy
+Duration: 4 Weeks
+Skills Gained: Portfolio Development
+
+DOMAIN: CLOUD COMPUTING
+
+Career Outcome: Cloud Engineer
+
+Learning Module: Cloud Foundations
+Level: Beginner
+Prerequisite: None
+Duration: 2 Weeks
+Skills Gained: Cloud Basics
+
+Learning Module: System Administration Essentials
+Level: Beginner
+Prerequisite: None
+Duration: 2 Weeks
+Skills Gained: System Management
+
+Learning Module: Cloud Networking Concepts
+Level: Intermediate
+Prerequisite: Cloud Foundations
+Duration: 2 Weeks
+Skills Gained: Cloud Networking
+
+Learning Module: Virtual Infrastructure Management
+Level: Intermediate
+Prerequisite: System Administration Essentials
+Duration: 3 Weeks
+Skills Gained: Virtualization
+
+Learning Module: Container Technologies
+Level: Intermediate
+Prerequisite: System Administration Essentials
+Duration: 3 Weeks
+Skills Gained: Containers
+
+Learning Module: Cloud Resource Provisioning
+Level: Intermediate
+Prerequisite: Cloud Foundations
+Duration: 3 Weeks
+Skills Gained: Resource Management
+
+Learning Module: Cloud Security Essentials
+Level: Advanced
+Prerequisite: Cloud Networking Concepts
+Duration: 3 Weeks
+Skills Gained: Cloud Security
+
+Learning Module: Infrastructure Automation
+Level: Advanced
+Prerequisite: Container Technologies
+Duration: 4 Weeks
+Skills Gained: Automation
+
+Learning Module: Scalable System Design
+Level: Advanced
+Prerequisite: Cloud Resource Provisioning
+Duration: 3 Weeks
+Skills Gained: System Architecture
+
+Learning Module: DevOps Integration Practices
+Level: Advanced
+Prerequisite: Infrastructure Automation
+Duration: 3 Weeks
+Skills Gained: CI/CD
+
+Learning Module: Enterprise Cloud Architecture
+Level: Advanced
+Prerequisite: Scalable System Design
+Duration: 4 Weeks
+Skills Gained: Architecture Design
+
+Learning Module: Cloud Innovation Project
+Level: Advanced
+Prerequisite: Enterprise Cloud Architecture
+Duration: 4 Weeks
+Skills Gained: Real-world Cloud Solutions

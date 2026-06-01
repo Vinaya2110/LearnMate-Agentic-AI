@@ -1,0 +1,65 @@
+Domain,Learning_Module,Level,Prerequisite,Duration_Weeks,Skills_Gained,Career_Outcome,Recommended_For
+AI/ML,Programming Logic with Python,Beginner,None,2,Python Basics;Problem Solving,AI Engineer,Students new to AI
+AI/ML,Data Preparation Essentials,Beginner,Programming Logic with Python,2,Data Cleaning;Data Handling,Data Analyst,Students interested in AI
+AI/ML,Mathematics for Machine Intelligence,Beginner,Programming Logic with Python,3,Statistics;Linear Algebra,AI Engineer,Students interested in AI
+AI/ML,Data Visualization Techniques,Intermediate,Data Preparation Essentials,2,Visualization;Insights,Data Analyst,Students interested in analytics
+AI/ML,Predictive Analytics Fundamentals,Intermediate,Mathematics for Machine Intelligence,3,Prediction Models;ML Basics,ML Engineer,Students interested in AI
+AI/ML,Applied Machine Learning,Intermediate,Predictive Analytics Fundamentals,4,Machine Learning,ML Engineer,Students interested in AI
+AI/ML,Neural Network Design,Advanced,Applied Machine Learning,4,Deep Learning,AI Engineer,Students pursuing AI careers
+AI/ML,Natural Language Intelligence,Advanced,Neural Network Design,3,NLP;Text Processing,AI Engineer,Students interested in Generative AI
+AI/ML,Computer Vision Foundations,Advanced,Neural Network Design,3,Image Processing,AI Engineer,Students interested in Vision AI
+AI/ML,Responsible AI Practices,Advanced,Applied Machine Learning,2,AI Ethics;Governance,AI Consultant,Students interested in AI
+AI/ML,Generative AI Applications,Advanced,Natural Language Intelligence,4,LLMs;Prompt Engineering,Generative AI Engineer,Students interested in GenAI
+AI/ML,AI Innovation Project,Advanced,Generative AI Applications,4,End-to-End AI Development,AI Engineer,Students preparing portfolios
+,,,,,,,
+Frontend,Web Structure Fundamentals,Beginner,None,1,HTML;Semantic Design,Frontend Developer,Students interested in web development
+Frontend,Visual Styling Essentials,Beginner,Web Structure Fundamentals,2,CSS;Responsive Design,Frontend Developer,Students interested in web development
+Frontend,Interactive Web Programming,Intermediate,Visual Styling Essentials,3,JavaScript;DOM,Frontend Developer,Students interested in web development
+Frontend,Responsive Interface Design,Intermediate,Visual Styling Essentials,2,Responsive Layouts,Frontend Developer,Students interested in web development
+Frontend,Modern UI Components,Advanced,Interactive Web Programming,3,Reusable Components,Frontend Developer,Students interested in frontend
+Frontend,Single Page Applications,Advanced,Modern UI Components,4,SPA Development,Frontend Developer,Students interested in frontend
+Frontend,State Management Concepts,Advanced,Single Page Applications,2,Application State,Frontend Developer,Students interested in frontend
+Frontend,Frontend Testing Methods,Advanced,Single Page Applications,2,Testing;Debugging,Frontend Developer,Students interested in frontend
+Frontend,Accessibility and Inclusion,Intermediate,Responsive Interface Design,2,Accessible Design,Frontend Developer,Students interested in UX
+Frontend,Performance Optimization,Advanced,Single Page Applications,2,Optimization Techniques,Frontend Developer,Students interested in frontend
+Frontend,Frontend Deployment Strategies,Advanced,Performance Optimization,2,Deployment Skills,Frontend Developer,Students preparing for jobs
+Frontend,Professional Portfolio Creation,Advanced,Frontend Deployment Strategies,3,Portfolio Development,Frontend Developer,Students preparing for placements
+,,,,,,,
+Cybersecurity,Foundations of Digital Security,Beginner,None,2,Security Awareness,Security Analyst,Students interested in cybersecurity
+Cybersecurity,Computer Network Essentials,Beginner,None,2,Networking Basics,Security Analyst,Students interested in cybersecurity
+Cybersecurity,System Security Fundamentals,Intermediate,Foundations of Digital Security,3,System Protection,Security Analyst,Students interested in cybersecurity
+Cybersecurity,Secure Communication Practices,Intermediate,Computer Network Essentials,2,Network Security,Security Analyst,Students interested in cybersecurity
+Cybersecurity,Risk Assessment Techniques,Intermediate,System Security Fundamentals,3,Risk Analysis,Security Analyst,Students interested in cybersecurity
+Cybersecurity,Threat Intelligence Basics,Intermediate,Risk Assessment Techniques,3,Threat Analysis,Security Analyst,Students interested in cybersecurity
+Cybersecurity,Web Application Security,Advanced,Secure Communication Practices,3,Web Security,Security Analyst,Students interested in cybersecurity
+Cybersecurity,Ethical Security Testing,Advanced,Threat Intelligence Basics,4,Security Testing,Cybersecurity Specialist,Students interested in ethical hacking
+Cybersecurity,Incident Response Management,Advanced,Threat Intelligence Basics,3,Incident Handling,Cybersecurity Specialist,Students interested in SOC roles
+Cybersecurity,Security Monitoring Operations,Advanced,Incident Response Management,3,SOC Operations,Security Analyst,Students interested in SOC roles
+Cybersecurity,Cloud Security Principles,Advanced,Secure Communication Practices,3,Cloud Security,Cybersecurity Specialist,Students interested in cloud security
+Cybersecurity,Cyber Defense Project,Advanced,Security Monitoring Operations,4,Practical Security Skills,Cybersecurity Specialist,Students building portfolios
+,,,,,,,
+UI/UX,Human Centered Design,Beginner,None,2,Design Thinking,UX Designer,Students interested in design
+UI/UX,Visual Design Principles,Beginner,Human Centered Design,2,Visual Design,UI Designer,Students interested in design
+UI/UX,User Research Fundamentals,Intermediate,Human Centered Design,2,Research Skills,UX Designer,Students interested in UX
+UI/UX,Information Architecture Basics,Intermediate,Visual Design Principles,2,Content Organization,UX Designer,Students interested in UX
+UI/UX,Wireframing Techniques,Intermediate,Information Architecture Basics,2,Wireframing,UI Designer,Students interested in design
+UI/UX,Interactive Prototyping,Intermediate,Wireframing Techniques,3,Prototyping,UI Designer,Students interested in design
+UI/UX,Usability Evaluation Methods,Advanced,Interactive Prototyping,2,Usability Testing,UX Designer,Students interested in UX
+UI/UX,Design System Development,Advanced,Interactive Prototyping,3,Design Systems,UI Designer,Students interested in design
+UI/UX,Product Experience Strategy,Advanced,Usability Evaluation Methods,3,UX Strategy,UX Designer,Students interested in UX
+UI/UX,Mobile Experience Design,Advanced,Interactive Prototyping,3,Mobile UX,UX Designer,Students interested in UX
+UI/UX,Collaborative Design Workflows,Advanced,Design System Development,2,Team Collaboration,Product Designer,Students preparing for industry
+UI/UX,UX Showcase Project,Advanced,Product Experience Strategy,4,Portfolio Development,Product Designer,Students preparing portfolios
+,,,,,,,
+Cloud Computing,Cloud Foundations,Beginner,None,2,Cloud Basics,Cloud Engineer,Students interested in cloud
+Cloud Computing,System Administration Essentials,Beginner,None,2,System Management,Cloud Engineer,Students interested in cloud
+Cloud Computing,Cloud Networking Concepts,Intermediate,Cloud Foundations,2,Cloud Networking,Cloud Engineer,Students interested in cloud
+Cloud Computing,Virtual Infrastructure Management,Intermediate,System Administration Essentials,3,Virtualization,Cloud Engineer,Students interested in cloud
+Cloud Computing,Container Technologies,Intermediate,System Administration Essentials,3,Containers,Cloud Engineer,Students interested in DevOps
+Cloud Computing,Cloud Resource Provisioning,Intermediate,Cloud Foundations,3,Resource Management,Cloud Engineer,Students interested in cloud
+Cloud Computing,Cloud Security Essentials,Advanced,Cloud Networking Concepts,3,Cloud Security,Cloud Engineer,Students interested in cloud
+Cloud Computing,Infrastructure Automation,Advanced,Container Technologies,4,Automation,DevOps Engineer,Students interested in DevOps
+Cloud Computing,Scalable System Design,Advanced,Cloud Resource Provisioning,3,System Architecture,Cloud Architect,Students interested in cloud
+Cloud Computing,DevOps Integration Practices,Advanced,Infrastructure Automation,3,CI/CD,DevOps Engineer,Students interested in DevOps
+Cloud Computing,Enterprise Cloud Architecture,Advanced,Scalable System Design,4,Architecture Design,Cloud Architect,Students interested in cloud
+Cloud Computing,Cloud Innovation Project,Advanced,Enterprise Cloud Architecture,4,Real-world Cloud Solutions,Cloud Architect,Students building portfolios
